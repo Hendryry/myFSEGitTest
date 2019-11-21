@@ -10,3 +10,12 @@ construct 2(String first, String other)
 {
 
 }
+
+set_other(String other)
+{
+
+{
+get_first(String first)
+{
+
+}

@@ -19,3 +19,7 @@ get_first(String first)
 {
 
 }
+public int getAge(int age)
+{
+	return age
+}

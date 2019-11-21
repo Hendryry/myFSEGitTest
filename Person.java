@@ -23,3 +23,8 @@ public int getAge(int age)
 {
 	return age
 }
+
+public string printFullName(String first, String other,String surname)
+{
+
+}
